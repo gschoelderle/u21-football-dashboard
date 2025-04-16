@@ -35,8 +35,7 @@ This project is part of my data portfolio and was carried out in three main phas
 
 	•	I focused on clarity and structure, aiming for accessible insights.
 	
-Live dashboard:
-[https://public.tableau.com/app/profile/greta8355/viz/Futbol_197447386490570/Dashboard](https://public.tableau.com/app/profile/greta8355/viz/Futbol_17447386490570/Dashboard)
+[▶️ View the Tableau Dashboard](https://public.tableau.com/app/profile/greta8355/viz/Futbol_197447386490570/Dashboard)
 
 3. Visual Summary
 	•	I created an infographic summarizing key findings.
@@ -77,5 +76,8 @@ Author
 
 Created by Greta, 2025
 This project is part of my data portfolio. All data sourced from Transfermarkt, compiled and analyzed manually in early 2025.
+
+---
+**Tags:** #DataAnalytics #Python #Tableau #Portfolio #SportsAnalytics #Visualization
 
 
