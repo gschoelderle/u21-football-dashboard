@@ -57,10 +57,7 @@ This project is part of my data portfolio and was carried out in three main phas
 ### Tableau Dashboard
 ![Dashboard](img/dashboard_screenshot.png)
 
-### U-21 Starting XI Infographic Closeup
-![Dashboard](img/infographic-closeup.png)
-### U-21 Starting XI Infographic Closeup
-![Dashboard](img/infographic-closeup2.png)
+### U-21 Starting XI Infographic Closeup (coming soon)
 
 ### Snapshot of the code
 ![Dashboard](img/python_screenshot.png)
