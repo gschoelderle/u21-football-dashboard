@@ -35,7 +35,7 @@ This project is part of my data portfolio and was carried out in three main phas
 
 	•	I focused on clarity and structure, aiming for accessible insights.
 	
-[▶️ View the Tableau Dashboard](https://public.tableau.com/app/profile/greta8355/viz/Futbol_197447386490570/Dashboard)
+[▶️ View the Tableau Dashboard]([https://public.tableau.com/app/profile/greta8355/viz/Futbol_197447386490570/Dashboard](https://public.tableau.com/views/Futbol_17447386490570/Dashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 3. Visual Summary
 	•	I created an infographic summarizing key findings.
